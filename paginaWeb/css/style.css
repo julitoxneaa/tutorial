@@ -1,0 +1,34 @@
+
+.pedrito{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+}
+/*ponerle una tipografia open-sans */
+.titulos{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.subtitulos{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+}
+.parrafos{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+}
+.parrafosc{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+/*fondo en body color magenta*/
+body {
+   background-color: rgb(0, 0, 0);
+}
